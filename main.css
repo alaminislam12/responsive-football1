@@ -100,16 +100,8 @@ text-decoration: none;
         .container{
             width: 80%;
         }
-        .section-hero{
-            flex-direction: column-reverse;
-            margin-bottom: 40px;
-            
+       
 
-        }
-        .container-footer{
-            grid-template-columns: repeat(1 , 1fr);
-            background-color: orchid;
-        }
 
         
     }
